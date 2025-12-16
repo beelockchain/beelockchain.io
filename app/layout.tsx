@@ -16,7 +16,8 @@ export const metadata: Metadata = {
   title: "Beelockchain",
   description: "Beelockchain.io",
   icons: {
-    icon: "/fevicon.png",
+    icon: "/favicon.png",
+    apple: "/favicon.png"
   },
 };
 
